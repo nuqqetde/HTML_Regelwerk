@@ -31,7 +31,7 @@ git clone https://github.com/nuqqetde/HTML_Regelwerk.git
 
 2. In das Projektverzeichnis wechseln:
 ```bash
-cd los-santos-rp-regelwerk
+cd HTML_Regelwerk
 ```
 
 3. `index.html` in einem modernen Webbrowser öffnen

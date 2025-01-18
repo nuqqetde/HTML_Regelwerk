@@ -2,7 +2,7 @@
 
 Eine moderne, responsive Website zur Darstellung des Regelwerks für einen GTA RP (Roleplay) Server. Die Website wurde mit einem cyberpunk-inspirierten Design erstellt und bietet eine übersichtliche Darstellung aller wichtigen Serverregeln.
 
-![Los Santos RP](https://i.postimg.cc/jj3C3SQB/Screenshot-1533.png
+![Los Santos RP](https://i.postimg.cc/jj3C3SQB/Screenshot-1533.png)
 
 ## ✨ Features
 
